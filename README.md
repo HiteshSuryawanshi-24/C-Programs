@@ -1,2 +1,2 @@
 # C-Programs
-All C Language and Logic
+All C Language Programs and Logic
